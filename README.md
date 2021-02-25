@@ -8,6 +8,8 @@
 ## Ruby Install
 ### Follow this link to download Ruby+Devkit 2.7.2-1 (x64) for windows.
 https://rubyinstaller.org/downloads/
+### For macOS and others.
+https://www.ruby-lang.org/en/downloads/
 
 ## Rails Install
 ### Run the command
