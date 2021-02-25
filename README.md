@@ -20,7 +20,7 @@ https://www.ruby-lang.org/en/downloads/
 https://www.postman.com/downloads/
 
 ## How to run:
-1. Download my project into a folder of your choice in the same root that you did the ruby and rails installs in.
+1. Download my project into a folder of your choice.
 2. Open the terminal and cd into the project folder.
 3. Run the command: `rails s`
 4. Note the port the project is running on.
