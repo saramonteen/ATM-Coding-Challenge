@@ -1,8 +1,8 @@
 # README
 
 ## Required to run this:
-- Ruby version 2.7+
-- Rails version 6+
+- Ruby version 2.7
+- Rails version 6
 - Postman
 
 ## Ruby Install
