@@ -25,7 +25,7 @@ https://www.postman.com/downloads/
 3. Run the command: `rails s`
 4. Note the port the project is running on.
 5. Open postman.
-6. Create a GET request put the following line into the url bar:
+6. Create a GET request and put the following line into the url bar:
 **localhost:your-port/getGeo/ip address**
 7. Then populate the ip address area of the url with any ip address of your choosing and hit enter.
 Here is a helpful generator: https://www.ipvoid.com/random-ip/
